@@ -1,0 +1,177 @@
+.topnav{
+    margin-top: 5%;
+    margin-left: 30%;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 800;
+    font-size: 20px;
+}
+.John{
+    margin-left: 5%;
+    font-style: oblique;
+     font-size: 50px;
+     font-weight: 600;
+}
+.closet2 img{
+    margin-left: 5%;
+    margin-top: 10%;
+    width: 600px;
+}
+.closet1 img{
+    width: 600px;
+    margin-left: 55%;
+    margin-top: -37%;
+}
+.collection{
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+
+.content{
+
+    margin-top: 15%;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 5%;
+}
+.closet3 img{
+    width: 300px;
+    margin-left: 50%;
+    margin-top: -20%;
+}
+.dress23 img{
+    width: 300px;
+    margin-left: 75%;
+    margin-top: -50%;
+}
+.Newarrival{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 5%;
+    margin-left: 35%;
+}
+.cloth2 img{
+    width: 300px;
+    margin-top: 3%;
+}
+.cloth1 img{
+    width: 300px;
+    margin-left: 30%;
+    margin-top: -25%;
+}
+.cloth3 img{
+    width: 300px;
+    margin-left: 60%;
+    margin-top: -20%;
+    
+}
+.dressie img{
+    width: 300px;
+    margin-left: 25%;
+    margin-top: -15%;
+}
+.tops{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.shorts{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 18%;
+    margin-top: 5%;
+
+}
+.tshirts{
+    font-size:20px;
+    font-weight: 600;
+    margin-left: 50%;
+}
+.Sexy{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 15%;
+}
+.button{
+    margin-left: 70%;
+
+}
+#Discount{
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+}
+.backcloset img{
+    width: 700px;
+    margin-left: 25%;
+    margin-top: -25%;
+}
+
+.clossy img{
+    margin-top: 10%;
+    width: 800px;
+    margin-left: 10%;
+}
+.content2{
+    margin-left: 65%;
+    border: solid;
+    border-color: whitesmoke;
+    padding-left: 5%;
+    margin-top: -5%;
+    
+}
+.effortless{
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.Offering{
+    font-size: 20px;
+
+}
+.why{
+    font-size: 50px;
+     font-weight: 800 ;
+     margin-left: 30%;
+     margin-top: 10%;
+
+}
+.first{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.second{
+    margin-left: 55%;
+    margin-top: -10%;
+}
+.Timeless{
+    font-size: 30px;
+}
+.Essentials{
+    font-size: 30px;
+}
+
+.signup{
+    margin-top: 10%;
+    background-image: url(images/backcloset.jpg);
+
+}
+.save{
+    margin-left: 30%;
+    font-size: 30px;
+    font-weight: 600;
+}
+.updates{
+    margin-left: 30%;
+    font-size: 20px;
+    
+}
+.label{
+    margin-left:30% ;
+    font-size: 15px;
+}
